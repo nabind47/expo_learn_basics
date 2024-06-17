@@ -1,4 +1,4 @@
-# [](https://docs.expo.dev/tutorial/introduction/)
+# [EXPO LEARN](https://docs.expo.dev/tutorial/introduction/)
 
 ```sh
 npx expo install expo-dev-client
@@ -7,8 +7,6 @@ npx expo install expo-dev-client
 ```sh
 npx expo start
 ```
-
----
 
 ```sh
 eas init
