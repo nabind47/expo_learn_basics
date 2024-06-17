@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nabind47.expo_learn_basics"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "15edc93d-cffb-4502-b96f-7b44a2d2ab3c"
+      }
+    },
+    "owner": "nabind47"
   }
 }
